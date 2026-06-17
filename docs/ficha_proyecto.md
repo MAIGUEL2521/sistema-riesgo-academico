@@ -89,5 +89,5 @@ Por ello, se propone desarrollar una aplicación web analítica que, a partir de
 
 ## 10. URL del repositorio GitHub
 
-https://github.com/tu-usuario/sistema-riesgo-academico
+https://github.com/MAIGUEL2521/sistema-riesgo-academico
 
