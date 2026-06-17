@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+.env
+.venv
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos grandes de datos (si superan límite de GitHub)
+# data/raw/*.csv   <- descomenta si el CSV supera 100MB
+
+# Secretos
+*.env
+secrets.json
